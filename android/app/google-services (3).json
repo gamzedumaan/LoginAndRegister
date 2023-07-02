@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "504139204339",
+    "project_id": "loginscreen-dab08",
+    "storage_bucket": "loginscreen-dab08.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:504139204339:android:f7eeb25b97624292c7d986",
+        "android_client_info": {
+          "package_name": "com.loginandregister"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "504139204339-vpb1ks5fftll8bp0rll6vi7goufn6dug.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnR9khpVeIcrVEVkhcZoQWpG5ExixW4Yo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "504139204339-vpb1ks5fftll8bp0rll6vi7goufn6dug.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
