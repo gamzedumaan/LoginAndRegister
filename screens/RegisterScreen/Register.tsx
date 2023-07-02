@@ -5,7 +5,6 @@ import {useNavigation} from '@react-navigation/native';
 import auth from '@react-native-firebase/auth';
 
 export default function Register() {
-  const navigation = useNavigation();
   const [fullName, setFullName] = useState('');
   const [email, setEmail] = useState('');
   const [password, setPassword] = useState('');
